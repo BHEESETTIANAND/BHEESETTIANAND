@@ -1,4 +1,4 @@
-[![MasterHead](https://www.uat.edu/media/data-science-banner.png)]
+![MasterHead](https://www.uat.edu/media/data-science-banner.png)
 <h1 align="center">Hi 👋, I'm BHEESETTI ANAND</h1>
 <h3 align="center">A passionate Data science and Machine learning Student.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
