@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Data science and Machine learning Student.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
-- 🌱 I’m currently learning **Machine learning,Deep learning**
+- 🌱 I’m currently working on **Machine learning,Deep learning,Reinforcement learning and LLM'S**
 
-- 💬 Ask me about **Data science,Machine learning**
+- 💬 Ask me about **Data science,Machine learning,Deep learning**
 
 - 📫 How to reach me **anandbheesetti@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **My weakness is my strength**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
