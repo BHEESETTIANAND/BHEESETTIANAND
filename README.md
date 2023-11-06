@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Yaswanth+Teja+Yarlagadda;I'm+from+India;I'm+a+Computer+Science+Graduate+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bheesetti+Anand;I'm+from+India;I'm+a+AI,+DataScience+Student+;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
 
 ![MasterHead](https://www.uat.edu/media/data-science-banner.png)
 <h1 align="center">Hi 👋, I'm BHEESETTI ANAND</h1>
@@ -14,6 +16,9 @@
 - 📫 How to reach me **anandbheesetti@gmail.com**
 
 - ⚡ Fun fact **My weakness is my strength**
+
+- ### <b>📖 If you're still reading, why not follow me ?? Let's Connect ✖️🌐
+- 💬 I love to connect with  people and exchange ideas :) !!</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
